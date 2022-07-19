@@ -1,0 +1,36 @@
+Nome                  x1        x2       x3          d
+Azul Eletrico         127       126      255         1
+Rosa Apagado          204       139      140        -1
+Beje                  198       136      102         1
+Rosa Avermelhado      177       78       79         -1
+Roxo Sonho            205       180      219         1
+Rosa Bebe             255       175      204        -1
+Azul Bebe             189       224      254         1
+Rosa Sonho            255       175      204         1
+Azul Acinzado         38        70       83         -1
+Amarelo Areia         233       196      106         1
+Azul Escuro           20        33       61         -1
+Laranja Forte         252       163      17         -1
+Cinza Claro           229       229      229         1
+Verde Sonho           204       213      174         1
+Verde Neblina         233       237      201        -1
+Laranja Areia         212       163      115        -1
+Vermelho Sangue       230       57       70          1
+Ciano Sonho           168       218      220         1
+Azul                  69        123      157         1
+Azul Marinho          29        53       87         -1
+Verde Camuflagem      96        108      56         -1
+Verde Escuro          40        54       24         -1
+Laranja Creme         221       161      94         -1
+Laranja Fogo          188       108      37         -1
+Azul Noite            3         4        94          1
+Azul Dia              0         180      216        -1
+Lilas                 155       93       229        -1
+Rosa Eletrico         241       91       181         1
+Azul Esmeralda        0         245      212        -1
+Preto Fraco           0         18       25         1
+Vermelho Solar        187       62       3           1
+Amarelo               255       190      11         -1
+Laranja Solar         334       100      50         -1
+Roxo Eletrico         131       56       236         1
+Azul Diamante         58        134      255         1
